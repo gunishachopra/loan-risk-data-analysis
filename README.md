@@ -27,6 +27,7 @@ This project focuses on analyzing 50,000+ loan applications to identify risk pat
 
 ## 📊 Key Insights
 
+- Access visuals here: https://drive.google.com/file/d/1_vb782OOyr59yHt5THl8K-uXHlbrUsRn/view?usp=drive_link
 - Cleaned 48+ null-heavy columns; improved data reliability by 32%  
 - Found 91% of applicants were non-defaulters, highlighting a **class imbalance**  
 - Segmented 30,000+ borrowers by income, age, and gender  
@@ -36,6 +37,7 @@ This project focuses on analyzing 50,000+ loan applications to identify risk pat
 ---
 ## 📂 Dataset
 
+- dataset: https://docs.google.com/spreadsheets/d/1UKAvtKpiy7gcPKdzEY2QPgoSMcxG_e3S/edit?usp=drive_link&ouid=102683227032029211056&rtpof=true&sd=true
 - Size: ~50,000 loan applications
 - Includes: income, credit score, annuity, defaults, and demographics
 
